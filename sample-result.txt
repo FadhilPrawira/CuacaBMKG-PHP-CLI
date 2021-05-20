@@ -1,0 +1,568 @@
+Kab. Bangkalan Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 12:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 12:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 18:00:00 WIB = Hujan Ringan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 06:00:00 WIB = Berawan
+Saturday, 22 May 2021 12:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 18:00:00 WIB = Berawan Tebal
+
+
+Kab. Banyuwangi Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Berawan
+Thursday, 20 May 2021 12:00:00 WIB = Berawan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Berawan
+Friday, 21 May 2021 06:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 12:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 18:00:00 WIB = Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Berawan
+Saturday, 22 May 2021 06:00:00 WIB = Cerah
+Saturday, 22 May 2021 12:00:00 WIB = Berawan
+Saturday, 22 May 2021 18:00:00 WIB = Berawan
+
+
+Kota Batu Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Kabut
+Thursday, 20 May 2021 06:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 12:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 18:00:00 WIB = Kabut
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 12:00:00 WIB = Berawan
+Friday, 21 May 2021 18:00:00 WIB = Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Hujan Ringan
+Saturday, 22 May 2021 06:00:00 WIB = Hujan Petir
+Saturday, 22 May 2021 12:00:00 WIB = Hujan Ringan
+Saturday, 22 May 2021 18:00:00 WIB = Hujan Ringan
+
+
+Kab. Bojonegoro Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 12:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 12:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 18:00:00 WIB = Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 06:00:00 WIB = Berawan
+Saturday, 22 May 2021 12:00:00 WIB = Berawan
+Saturday, 22 May 2021 18:00:00 WIB = Hujan Ringan
+
+
+Kab. Bondowoso Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 12:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 12:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 18:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah
+Saturday, 22 May 2021 06:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 12:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 18:00:00 WIB = Cerah Berawan
+
+
+Kab. Gresik Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 12:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 12:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 18:00:00 WIB = Hujan Ringan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 06:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 12:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 18:00:00 WIB = Berawan Tebal
+
+
+Kab. Jember Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 12:00:00 WIB = Berawan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 12:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 18:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah
+Saturday, 22 May 2021 06:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 12:00:00 WIB = Cerah
+Saturday, 22 May 2021 18:00:00 WIB = Berawan
+
+
+Kab. Jombang Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 12:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 18:00:00 WIB = Kabut
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 12:00:00 WIB = Berawan
+Friday, 21 May 2021 18:00:00 WIB = Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Berawan
+Saturday, 22 May 2021 06:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 12:00:00 WIB = Hujan Petir
+Saturday, 22 May 2021 18:00:00 WIB = Hujan Ringan
+
+
+Kab. Blitar Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Kabut
+Thursday, 20 May 2021 06:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 12:00:00 WIB = Berawan
+Thursday, 20 May 2021 18:00:00 WIB = Kabut
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 12:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 18:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah
+Saturday, 22 May 2021 06:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 12:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 18:00:00 WIB = Berawan Tebal
+
+
+Kab. Kediri Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Kabut
+Thursday, 20 May 2021 06:00:00 WIB = Hujan Petir
+Thursday, 20 May 2021 12:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Berawan
+Friday, 21 May 2021 12:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 18:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 06:00:00 WIB = Hujan Ringan
+Saturday, 22 May 2021 12:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 18:00:00 WIB = Berawan Tebal
+
+
+Kab. Madiun Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Kabut
+Thursday, 20 May 2021 06:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 12:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 18:00:00 WIB = Kabut
+Friday, 21 May 2021 00:00:00 WIB = Berawan
+Friday, 21 May 2021 06:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 12:00:00 WIB = Berawan
+Friday, 21 May 2021 18:00:00 WIB = Hujan Ringan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 06:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 12:00:00 WIB = Berawan
+Saturday, 22 May 2021 18:00:00 WIB = Berawan
+
+
+Kab. Malang Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Kabut
+Thursday, 20 May 2021 06:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 12:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 18:00:00 WIB = Kabut
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Hujan Petir
+Friday, 21 May 2021 12:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 18:00:00 WIB = Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 06:00:00 WIB = Hujan Ringan
+Saturday, 22 May 2021 12:00:00 WIB = Berawan
+Saturday, 22 May 2021 18:00:00 WIB = Berawan Tebal
+
+
+Kab. Mojokerto Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Kabut
+Thursday, 20 May 2021 06:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 12:00:00 WIB = Berawan
+Thursday, 20 May 2021 18:00:00 WIB = Kabut
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 12:00:00 WIB = Berawan
+Friday, 21 May 2021 18:00:00 WIB = Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 06:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 12:00:00 WIB = Berawan
+Saturday, 22 May 2021 18:00:00 WIB = Hujan Ringan
+
+
+Kab. Pasuruan Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Kabut
+Thursday, 20 May 2021 06:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 12:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 18:00:00 WIB = Kabut
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 12:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 18:00:00 WIB = Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 06:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 12:00:00 WIB = Berawan Tebal
+Saturday, 22 May 2021 18:00:00 WIB = Berawan
+
+
+Kab. Probolinggo Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Kabut
+Thursday, 20 May 2021 06:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 12:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 18:00:00 WIB = Kabut
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 12:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 18:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah
+Saturday, 22 May 2021 06:00:00 WIB = Hujan Ringan
+Saturday, 22 May 2021 12:00:00 WIB = Cerah
+Saturday, 22 May 2021 18:00:00 WIB = Berawan
+
+
+Kota Blitar Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 12:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 12:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 18:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah
+Saturday, 22 May 2021 06:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 12:00:00 WIB = Cerah
+Saturday, 22 May 2021 18:00:00 WIB = Berawan
+
+
+Kota Kediri Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 12:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Berawan
+Friday, 21 May 2021 12:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 18:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 06:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 12:00:00 WIB = Hujan Ringan
+Saturday, 22 May 2021 18:00:00 WIB = Berawan
+
+
+Kota Madiun Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 12:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Berawan
+Friday, 21 May 2021 06:00:00 WIB = Berawan
+Friday, 21 May 2021 12:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 18:00:00 WIB = Hujan Ringan
+Saturday, 22 May 2021 00:00:00 WIB = Hujan Ringan
+Saturday, 22 May 2021 06:00:00 WIB = Berawan
+Saturday, 22 May 2021 12:00:00 WIB = Berawan
+Saturday, 22 May 2021 18:00:00 WIB = Berawan
+
+
+Kota Malang Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 12:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 18:00:00 WIB = Kabut
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 12:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 18:00:00 WIB = Berawan Tebal
+Saturday, 22 May 2021 00:00:00 WIB = Cerah
+Saturday, 22 May 2021 06:00:00 WIB = Hujan Petir
+Saturday, 22 May 2021 12:00:00 WIB = Berawan Tebal
+Saturday, 22 May 2021 18:00:00 WIB = Berawan Tebal
+
+
+Kota Mojokerto Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 12:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 12:00:00 WIB = Berawan
+Friday, 21 May 2021 18:00:00 WIB = Hujan Ringan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah
+Saturday, 22 May 2021 06:00:00 WIB = Hujan Ringan
+Saturday, 22 May 2021 12:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 18:00:00 WIB = Hujan Ringan
+
+
+Kota Pasuruan Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 12:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 12:00:00 WIB = Hujan Petir
+Friday, 21 May 2021 18:00:00 WIB = Cerah
+Saturday, 22 May 2021 00:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 06:00:00 WIB = Cerah
+Saturday, 22 May 2021 12:00:00 WIB = Berawan
+Saturday, 22 May 2021 18:00:00 WIB = Berawan
+
+
+Kota Probolinggo Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 12:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Berawan
+Friday, 21 May 2021 12:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 18:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 06:00:00 WIB = Hujan Ringan
+Saturday, 22 May 2021 12:00:00 WIB = Cerah
+Saturday, 22 May 2021 18:00:00 WIB = Berawan
+
+
+Kab. Lamongan Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 12:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 12:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 18:00:00 WIB = Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Berawan
+Saturday, 22 May 2021 06:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 12:00:00 WIB = Berawan
+Saturday, 22 May 2021 18:00:00 WIB = Berawan
+
+
+Kab. Lumajang Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 12:00:00 WIB = Berawan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 12:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 18:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah
+Saturday, 22 May 2021 06:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 12:00:00 WIB = Berawan
+Saturday, 22 May 2021 18:00:00 WIB = Berawan Tebal
+
+
+Kab. Magetan Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Kabut
+Thursday, 20 May 2021 06:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 12:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 18:00:00 WIB = Kabut
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 12:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 18:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 06:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 12:00:00 WIB = Berawan
+Saturday, 22 May 2021 18:00:00 WIB = Kabut
+
+
+Kab. Nganjuk Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Kabut
+Thursday, 20 May 2021 06:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 12:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 18:00:00 WIB = Kabut
+Friday, 21 May 2021 00:00:00 WIB = Berawan
+Friday, 21 May 2021 06:00:00 WIB = Berawan
+Friday, 21 May 2021 12:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 18:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 06:00:00 WIB = Hujan Ringan
+Saturday, 22 May 2021 12:00:00 WIB = Berawan
+Saturday, 22 May 2021 18:00:00 WIB = Hujan Ringan
+
+
+Kab. Ngawi Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 12:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Berawan
+Friday, 21 May 2021 06:00:00 WIB = Berawan
+Friday, 21 May 2021 12:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 18:00:00 WIB = Hujan Ringan
+Saturday, 22 May 2021 00:00:00 WIB = Hujan Ringan
+Saturday, 22 May 2021 06:00:00 WIB = Hujan Ringan
+Saturday, 22 May 2021 12:00:00 WIB = Hujan Ringan
+Saturday, 22 May 2021 18:00:00 WIB = Hujan Ringan
+
+
+Kab. Pacitan Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 12:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Berawan
+Friday, 21 May 2021 12:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 18:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 06:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 12:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 18:00:00 WIB = Berawan
+
+
+Kab. Pamekasan Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 12:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Cerah
+Friday, 21 May 2021 06:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 12:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 18:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 06:00:00 WIB = Cerah
+Saturday, 22 May 2021 12:00:00 WIB = Cerah
+Saturday, 22 May 2021 18:00:00 WIB = Cerah Berawan
+
+
+Kab. Ponorogo Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 12:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Berawan
+Friday, 21 May 2021 12:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 18:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah
+Saturday, 22 May 2021 06:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 12:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 18:00:00 WIB = Berawan Tebal
+
+
+Kab. Sampang Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 12:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Cerah
+Friday, 21 May 2021 06:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 12:00:00 WIB = Cerah
+Friday, 21 May 2021 18:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 06:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 12:00:00 WIB = Cerah
+Saturday, 22 May 2021 18:00:00 WIB = Hujan Ringan
+
+
+Kab. Sidoarjo Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 12:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 12:00:00 WIB = Berawan
+Friday, 21 May 2021 18:00:00 WIB = Hujan Ringan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah
+Saturday, 22 May 2021 06:00:00 WIB = Cerah
+Saturday, 22 May 2021 12:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 18:00:00 WIB = Berawan Tebal
+
+
+Kab. Situbondo Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 12:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Cerah
+Friday, 21 May 2021 06:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 12:00:00 WIB = Hujan Petir
+Friday, 21 May 2021 18:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah
+Saturday, 22 May 2021 06:00:00 WIB = Hujan Ringan
+Saturday, 22 May 2021 12:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 18:00:00 WIB = Berawan
+
+
+Kab. Sumenep Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 12:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 12:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 18:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah
+Saturday, 22 May 2021 06:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 12:00:00 WIB = Cerah
+Saturday, 22 May 2021 18:00:00 WIB = Cerah Berawan
+
+
+Kota Surabaya Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 12:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Cerah
+Friday, 21 May 2021 06:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 12:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 18:00:00 WIB = Hujan Ringan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 06:00:00 WIB = Cerah
+Saturday, 22 May 2021 12:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 18:00:00 WIB = Berawan
+
+
+Kab. Trenggalek Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 12:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Berawan
+Friday, 21 May 2021 12:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 18:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Berawan
+Saturday, 22 May 2021 06:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 12:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 18:00:00 WIB = Berawan Tebal
+
+
+Kab. Tuban Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 12:00:00 WIB = Berawan
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Cerah
+Friday, 21 May 2021 06:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 12:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 18:00:00 WIB = Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 06:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 12:00:00 WIB = Berawan
+Saturday, 22 May 2021 18:00:00 WIB = Berawan
+
+
+Kab. Tulungagung Provinsi Jawa Timur
+Thursday, 20 May 2021 00:00:00 WIB = Cerah Berawan
+Thursday, 20 May 2021 06:00:00 WIB = Hujan Ringan
+Thursday, 20 May 2021 12:00:00 WIB = Berawan Tebal
+Thursday, 20 May 2021 18:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 00:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 06:00:00 WIB = Hujan Ringan
+Friday, 21 May 2021 12:00:00 WIB = Cerah Berawan
+Friday, 21 May 2021 18:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 00:00:00 WIB = Berawan
+Saturday, 22 May 2021 06:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 12:00:00 WIB = Cerah Berawan
+Saturday, 22 May 2021 18:00:00 WIB = Berawan
